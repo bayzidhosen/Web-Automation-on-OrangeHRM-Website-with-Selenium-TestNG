@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunner.LoginTestRunner" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-18T13:39:26" hostname="DESKTOP-QVPOJIS" time="16.592">
+  <properties/>
+  <testcase name="doLogin" classname="testrunner.LoginTestRunner" time="7.395"/>
+  <testcase name="searchEmployeeInfo" classname="testrunner.LoginTestRunner" time="6.984"/>
+  <testcase name="selectEmployeeStatus" classname="testrunner.LoginTestRunner" time="2.209"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

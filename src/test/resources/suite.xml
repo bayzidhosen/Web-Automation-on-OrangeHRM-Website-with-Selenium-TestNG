@@ -1,0 +1,10 @@
+<suite thread-count="1" verbose="1" name="E-commerce portal automation">
+    <test name="Orange BD portal login  test">
+        <classes>
+
+        <class name="testrunner.LoginTestRunner"/>
+    </classes>
+    </test>
+
+
+</suite>
