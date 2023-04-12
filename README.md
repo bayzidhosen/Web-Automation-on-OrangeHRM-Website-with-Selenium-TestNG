@@ -38,6 +38,7 @@ TestNG is a testing framework for Java that is designed to be more flexible and 
 + Insert the second user's Gender, Blood, Address and email.
 + Logout second user.
 ## Allure Report:
+![Screenshot 2023-04-12 234802](https://user-images.githubusercontent.com/96931448/231541542-e7d55f3e-beb6-453b-b13e-4734bc8f4f05.png)
 ![Screenshot 2023-04-12 234535](https://user-images.githubusercontent.com/96931448/231541101-7ed49e94-702f-49ed-9898-8de8cbd864b2.png)
 
-! 
+
