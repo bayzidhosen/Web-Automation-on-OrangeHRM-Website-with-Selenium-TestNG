@@ -14,4 +14,4 @@ TestNG is a testing framework for Java that is designed to be more flexible and 
 + Allure
 ## How to run this project
 + Clone this project
-+.m Hit the following command into the terminal: gradle clean test
++ Hit the following command into the terminal: ! [gradle clean test]
