@@ -23,3 +23,21 @@ TestNG is a testing framework for Java that is designed to be more flexible and 
 + Select Gender and Blood Type and save it
 + Click on contact details and input address and email
 + Logout the user
+## Test case check list based on the Scenerio:
++ Admin Login with Invalid credential.
++ Admin Login with valid credential.
++ Create employee without username.
++ Create first employee.
++ Create second employee.
++ Search existing employee with invalid name.
++ Search employee with valid name.
++ Update employee Id by random Id.
++ Search employee again with updated employee id.
++ Logout Admin.
++ Login second user with valid credential.
++ Insert the second user's Gender, Blood, Address and email.
++ Logout second user.
+## Allure Report:
+![Screenshot 2023-04-12 234535](https://user-images.githubusercontent.com/96931448/231541101-7ed49e94-702f-49ed-9898-8de8cbd864b2.png)
+
+! 
